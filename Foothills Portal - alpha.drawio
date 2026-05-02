@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="nQHjEbEe0KVlNkEup3yG">
+    <mxGraphModel dx="1361" dy="869" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="046edQiSWhakn5Q3UXie-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="600" width="1000" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-4" parent="046edQiSWhakn5Q3UXie-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="560" width="160" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-5" parent="046edQiSWhakn5Q3UXie-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Project Journal" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-6" parent="046edQiSWhakn5Q3UXie-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Cameras" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-7" parent="046edQiSWhakn5Q3UXie-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Drone Shots" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-8" parent="046edQiSWhakn5Q3UXie-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Renderings" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-9" parent="046edQiSWhakn5Q3UXie-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Recent Photos" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-10" parent="046edQiSWhakn5Q3UXie-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Timeline" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-11" parent="046edQiSWhakn5Q3UXie-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Weekly Update Archive" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-12" parent="046edQiSWhakn5Q3UXie-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" value="Project Contacts" vertex="1">
+          <mxGeometry height="40" width="120" x="20" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-13" parent="046edQiSWhakn5Q3UXie-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;align=center;" value="&lt;u&gt;Current Active Operations&lt;/u&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Mass grading and utility installation&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Footings for Building K&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Rear Walls for Building K&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Underground RI at Memory Care&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;CMU &amp;amp; Framing at Addition/Reno&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Continuing major storm arteries&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="520" x="200" y="21" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-14" parent="046edQiSWhakn5Q3UXie-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1;" value="Near Term Project Milestones" vertex="1">
+          <mxGeometry height="260" width="520" x="200" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="046edQiSWhakn5Q3UXie-15" parent="046edQiSWhakn5Q3UXie-3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="560" width="240" x="740" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
